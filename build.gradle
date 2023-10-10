@@ -11,11 +11,11 @@ buildscript {
 allprojects {
 
     ext {
-        appName = 'Shattered Pixel Dungeon'
-        appPackageName = 'com.shatteredpixel.shatteredpixeldungeon'
+        appName = 'Limbus Pixel Dungeon'
+        appPackageName = 'com.limbuspixel.limbuspixeldungeon'
 
         appVersionCode = 736
-        appVersionName = '2.1.4'
+        appVersionName = '1.0.0'
 
         appJavaCompatibility = JavaVersion.VERSION_1_8
 
