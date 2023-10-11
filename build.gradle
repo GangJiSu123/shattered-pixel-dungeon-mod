@@ -15,7 +15,7 @@ allprojects {
         appPackageName = 'com.limbuspixel.limbuspixeldungeon'
 
         appVersionCode = 736
-        appVersionName = '2.1.4_based_0.0.1'
+        appVersionName = '2.1.4_based_0.0.2'
 
         appJavaCompatibility = JavaVersion.VERSION_1_8
 
